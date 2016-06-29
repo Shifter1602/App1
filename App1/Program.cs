@@ -11,6 +11,7 @@ namespace App1
         {
             Console.Write("hi");
             Console.Read();
+            Console.WriteLine("AAAA");
         }
         
     }
