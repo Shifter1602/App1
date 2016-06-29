@@ -9,6 +9,9 @@ namespace App1
     {
         static void Main(string[] args)
         {
+            Console.Write("hi");
+            Console.Read();
         }
+        
     }
 }
